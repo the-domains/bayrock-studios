@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[BayRock Studios]]></title>
         <description><![CDATA[BayRock Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bayrock-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 04:59:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 05:01:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bayrock-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/bayrock-studios/5a9eb99f-a1f8-4aad-90a2-268f24f1f851/index.html</link>
+            <guid isPermaLink="false">5a9eb99f-a1f8-4aad-90a2-268f24f1f851</guid>
+            <pubDate>Thu, 25 Feb 2016 05:01:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We are an independent, digital agency specializing in the design and development of communications materials.</p>]]></description>
-            <link>undefined454d9301-4753-4a19-a8a3-454d9de9feb1/index.html</link>
+            <link>https://thegrid.ai/bayrock-studios/454d9301-4753-4a19-a8a3-454d9de9feb1/index.html</link>
             <guid isPermaLink="false">454d9301-4753-4a19-a8a3-454d9de9feb1</guid>
             <pubDate>Thu, 25 Feb 2016 04:59:04 GMT</pubDate>
         </item>
